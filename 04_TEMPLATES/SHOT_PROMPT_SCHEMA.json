@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Film Studio — Prompt-as-Code Cinematic Shot Schema",
+  "version": "1.0.0",
+  "type": "object",
+  "required": [
+    "metadata",
+    "story",
+    "spatial_staging",
+    "optics",
+    "lighting",
+    "character_performance",
+    "video_motion_protocol",
+    "negative_locks"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["project_id", "scene_id", "shot_id", "version", "gate_status"],
+      "properties": {
+        "project_id": { "type": "string", "example": "NICODEMUS" },
+        "scene_id": { "type": "string", "example": "SCENE_001" },
+        "shot_id": { "type": "string", "example": "SHOT_001_A_ESTABLISHING" },
+        "version": { "type": "string", "example": "v1.0" },
+        "gate_status": { "type": "string", "enum": ["G1_APPROVED", "G2_VALIDATED", "G3_KEYFRAME_PASSED", "G4_VIDEO_PASSED", "G5_FINAL"] }
+      }
+    },
+    "story": {
+      "type": "object",
+      "required": ["narrative_purpose", "dramatic_beat", "emotional_goal", "subtext_resistance"],
+      "properties": {
+        "narrative_purpose": { "type": "string" },
+        "dramatic_beat": { "type": "string" },
+        "emotional_goal": { "type": "string" },
+        "subtext_resistance": { "type": "string", "description": "Micro-action overcoming internal doubt/conflict" }
+      }
+    },
+    "spatial_staging": {
+      "type": "object",
+      "required": ["foreground", "midground", "background"],
+      "properties": {
+        "foreground": {
+          "type": "object",
+          "properties": {
+            "element": { "type": "string" },
+            "optical_blur": { "type": "string", "example": "Soft anamorphic bokeh / depth cue" },
+            "frame_coverage_pct": { "type": "integer", "example": 15 }
+          }
+        },
+        "midground": {
+          "type": "object",
+          "properties": {
+            "subject_id": { "type": "string" },
+            "action": { "type": "string" },
+            "focus_state": { "type": "string", "example": "Razor-sharp optical plane" },
+            "frame_coverage_pct": { "type": "integer", "example": 45 }
+          }
+        },
+        "background": {
+          "type": "object",
+          "properties": {
+            "environment_materials": { "type": "string" },
+            "atmospheric_perspective": { "type": "string" }
+          }
+        }
+      }
+    },
+    "optics": {
+      "type": "object",
+      "required": ["camera", "lens", "focal_length", "aspect_ratio", "height_angle"],
+      "properties": {
+        "camera": { "type": "string", "default": "ARRI Alexa 65 Large Format" },
+        "lens": { "type": "string", "default": "Cooke Full Frame Anamorphic" },
+        "focal_length": { "type": "string", "example": "50mm T2.0" },
+        "aspect_ratio": { "type": "string", "default": "2.39:1 CinemaScope" },
+        "height_angle": { "type": "string", "default": "Eye level" }
+      }
+    },
+    "lighting": {
+      "type": "object",
+      "required": ["primary_source", "color_temperature_k", "contrast_ratio"],
+      "properties": {
+        "primary_source": { "type": "string" },
+        "color_temperature_k": { "type": "integer", "example": 3200 },
+        "contrast_ratio": { "type": "string", "example": "Medium-high raking light" },
+        "bounce_fill": { "type": "string" }
+      }
+    },
+    "character_performance": {
+      "type": "object",
+      "properties": {
+        "gaze_direction": { "type": "string" },
+        "micro_expression": { "type": "string" },
+        "hand_state": { "type": "string" },
+        "breathing_rhythm": { "type": "string" }
+      }
+    },
+    "video_motion_protocol": {
+      "type": "object",
+      "required": ["single_motion_vector", "vector_type", "motion_description", "keyframe_mode"],
+      "properties": {
+        "single_motion_vector": { "type": "boolean", "default": true },
+        "vector_type": { "type": "string", "enum": ["CAMERA_ONLY", "CHARACTER_ONLY", "ENVIRONMENT_ONLY"] },
+        "motion_description": { "type": "string", "example": "Slow push-in 0.5m, character static" },
+        "keyframe_mode": { "type": "string", "enum": ["FIRST_FRAME_LAST_FRAME", "IMAGE_TO_VIDEO"] },
+        "motion_scale": { "type": "integer", "minimum": 1, "maximum": 4, "default": 3 },
+        "duration_seconds": { "type": "number", "default": 4.0 }
+      }
+    },
+    "negative_locks": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
