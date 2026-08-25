@@ -1,0 +1,514 @@
+{
+  "project": "AI_FILM_STUDIO",
+  "created": "2026-08-20 14:07:09.397794",
+  "files": [
+    {
+      "path": "/ARCHITECTURE_AUDIT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/MASTER_VIDEO_STYLE.txt.rtf",
+      "extension": ".rtf"
+    },
+    {
+      "path": "/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/DIRECTOR_AI_SYSTEM_PROMPT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/MASTER_STYLE_ASSEMBLY_ARCHITECTURE_REPORT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/FILM_BLUEPRINT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/MASTER_STYLE_CHAIN_TEST_REPORT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/MASTER VIDEO STYLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/PROMPT_BRAIN_CONTEXT.txt",
+      "extension": ".txt"
+    },
+    {
+      "path": "/DIRECTOR_AI_CONTEXT.txt",
+      "extension": ".txt"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/NEGATIVE_LOCKS",
+      "extension": ""
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/EMOTION_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/CAMERA_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/CONTINUITY_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/CHARACTER_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/LIGHTING_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/MASTER_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/NEGATIVE_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/COLOR_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/CINEMATOGRAPHY_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/ENVIRONMENT_LOCKS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/ 09_PROMPT_BLOCKS/SCENE_LIGHTING_LOCK.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/04_TEMPLATES/FINAL_GENERATION_PROMPT_TEMPLATE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/04_TEMPLATES/SCENE_PACKAGE_TEMPLATE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/04_TEMPLATES/SHOT_PACKAGE_TEMPLATE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/04_TEMPLATES/SHOT_PROMPT_TEMPLATE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/06_REPORTS/06_LIGHTING_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/06_REPORTS/GENERATION_PROMPT_FORMAT_MIGRATION.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/06_REPORTS/PROJECT_AUDIT_2026-07-24.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/06_REPORTS/LATEST_WORKSPACE_AUDIT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/06_REPORTS/FINAL_VERIFICATION.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/MASTER_TIMELINE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/MUSIC_SHOT_MAPPING.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/SHOT_ID_SYSTEM.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/MASTER_SHOT_LIST.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/03_PROMPT_LIBRARY/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/03_PROMPT_LIBRARY/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/03_PROMPT_LIBRARY/VALIDATION_RULES.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/03_PROMPT_LIBRARY/NEGATIVE/MASTER_NEGATIVE_PROMPT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_001/SHOT_PACKAGE_001_A_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_001/SCENE_PACKAGE_001_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_006/SCENE_PACKAGE_006_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_008/SCENE_PACKAGE_008_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_009/SCENE_PACKAGE_009_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_007/SCENE_PACKAGE_007_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_005/SCENE_PACKAGE_005_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_002/SCENE_PACKAGE_002_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_003/SCENE_PACKAGE_003_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/04_SCENES/SCENE_004/SCENE_PACKAGE_004_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/CHARACTER_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/CAMERA_LIGHTING_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/MASTER_TIMELINE_v2.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/PROJECT_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/CONTINUITY_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/01_PRODUCTION_BOOK/ENVIRONMENT_BIBLE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/INDEX.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/PROPS/HERO_PROPS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/LOCATIONS/NICODEMUS_LIBRARY.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Nicodemus_MASTER_REFERENCE_v1.0.png.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/ИУДА.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Nicodemus_character_turnaround_Turnaround Sheet.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Jesus_MASTER_REFERENCE_v1.0.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Jesus_MASTER_REFERENCE_2v1.0.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Nicodemus_FACE_REFERENCE_v1.0.png.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/00_MASTER_REFERENCES/Temple_MASTER_REFERENCE_v1.0.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/CHARACTERS/NICODEMUS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/CHARACTERS/JESUS MASTER REFERENCE v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/CHARACTERS/Jesus_MASTER_REFERENCE_LOCK.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/ENVIRONMENT_REFERENCES/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/ENVIRONMENT_REFERENCES/TEMPLE/Temple_MASTER_REFERENCE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/ENVIRONMENT_REFERENCES/TEMPLE/Temple_MASTER_REFERENCE",
+      "extension": ""
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/02_ASSET_LIBRARY/ENVIRONMENT_REFERENCES/TEMPLE/Temple_MASTER_REFERENCE_v1.0.jpeg",
+      "extension": ".jpeg"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/05_QC/APPROVAL_LOG.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/03_PROJECTS/NICODEMUS/05_QC/QC_CHECKLIST.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/02_STUDIO/README.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/PROMPT_BUILD_ORDER.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/PROMPT_BRAIN/start_prompt_brain.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/PROMPT_BRAIN/PROMPT_BRAIN_SYSTEM_PROMPT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/03_AUTHORITY.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/08_PROMPT_BRAIN_INTERFACE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/DIRECTOR_AI_SYSTEM_PROMPT.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/05_STORY_BRAIN.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/12_FORBIDDEN_ACTIONS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/04_DECISION_ENGINE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/09_CONTINUITY_BRAIN.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/02_PERSONALITY.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/07_PERFORMANCE_BRAIN.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/01_MISSION.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/06_CAMERA_BRAIN.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/11_OUTPUT_SPECIFICATION.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/AI_SYSTEM/DIRECTOR_AI/10_QUALITY_BRAIN.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/WORKFLOWS/PRODUCTION_PIPELINE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/WORKFLOWS/MASTER_STYLE_ASSEMBLY_PROCESS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/02_STUDIO/ROLES/ROLE_CARDS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/PROJECT_RULES.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/.DS_Store",
+      "extension": ""
+    },
+    {
+      "path": "/01_GOVERNANCE/STUDIO_CONSTITUTION.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/CHANGELOG.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/PROMPT_GENERATION_WORKFLOW.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/TASK_QUEUE.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/GOVERNANCE_GATES.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/AGENTS.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/VERSIONING_PROTOCOL.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/PROMPT_CONTROL_SYSTEM_PROPOSAL_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/CLAUDE_ARCHITECTURE_REVIEW_TASK_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/MUSIC_SYNC_ENGINE_PROPOSAL_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/DIRECTOR_AI_CONTINUITY_UPGRADE_PROPOSAL_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/CLAUDE_READ_ORDER_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/CLAUDE_CHANGE_CONTROL_RULES_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/01_GOVERNANCE/IMPROVEMENT_PROPOSALS/CLAUDE_CHANGE_PLAN_v1.0.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/08_MASTER_STYLE/MASTER_STYLE_ENHANCEMENT_v2.2.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/08_MASTER_STYLE/MASTER_STYLE_v2.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/08_MASTER_STYLE/MASTER_STYLE_ENHANCEMENT_v2.1.md",
+      "extension": ".md"
+    },
+    {
+      "path": "/05_AUTOMATION/audit_workspace.zsh",
+      "extension": ".zsh"
+    },
+    {
+      "path": "/05_AUTOMATION/AI_AGENT/studio_agent.py",
+      "extension": ".py"
+    },
+    {
+      "path": "/05_AUTOMATION/AI_AGENT/core/scanner.py",
+      "extension": ".py"
+    }
+  ]
+}

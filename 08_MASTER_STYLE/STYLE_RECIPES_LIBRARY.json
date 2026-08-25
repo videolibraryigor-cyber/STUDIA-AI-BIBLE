@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Film Studio — Cinematic Style & Physical Lighting Recipes Library",
+  "version": "1.1.0",
+  "description": "Engineered Prompt-as-Code lighting, optical, compositional, and material recipes for historical cinema and classical visual narrative.",
+  "recipes": {
+    "recipe_dramatic_sunset_interior": {
+      "name": "Dramatic Sunset Library Interior",
+      "genre": "Biblical Historical Realism",
+      "lighting": {
+        "primary_source": "Low-angle warm sunset streaming through high narrow stone aperture",
+        "color_temperature": "3200K golden amber key light, 5600K subtle cool shadow bounce",
+        "contrast_ratio": "Medium-high contrast with raking grazing light across surfaces",
+        "atmospheric_scattering": "Visible airborne dust motes illuminated in sharp volumetric light beam (Tyndall effect)"
+      },
+      "optics": {
+        "camera": "ARRI Alexa 65 Large Format",
+        "lens": "Cooke Full Frame Anamorphic 50mm T2.0",
+        "aspect_ratio": "2.39:1 CinemaScope",
+        "optical_character": "Subtle oval anamorphic bokeh, gentle highlight halation, organic edge falloff"
+      },
+      "materials": {
+        "stone": "Porous hand-chiseled limestone ashlar blocks with micro-relief and natural sediment pores",
+        "wood": "Aged dry cedar wood beams with deep matte grain and hand-carved tool marks",
+        "textiles": "Unbleached coarse woven linen tunic with visible warp and weft fibers"
+      },
+      "negative_locks": "digital oversharpening, modern studio softbox, neon colors, plastic surfaces, flat lighting"
+    },
+    "recipe_night_candlelight_intimacy": {
+      "name": "Night Candlelight & Intimate Contemplation",
+      "genre": "Biblical Historical Realism",
+      "lighting": {
+        "primary_source": "Single organic beeswax candle flame on cedar table",
+        "color_temperature": "2000K-2200K warm amber point light",
+        "contrast_ratio": "Deep soft chiaroscuro, readable warm shadows without digital noise",
+        "reflection_physics": "Subtle warm specular glint in eye pupils and smooth bronze signet ring"
+      },
+      "optics": {
+        "camera": "ARRI Alexa 65",
+        "lens": "Cooke Anamorphic 85mm T1.9",
+        "aspect_ratio": "2.39:1",
+        "depth_of_field": "Shallow depth of field, sharp subject eye focus, soft background decay"
+      },
+      "materials": {
+        "skin": "Weathered 60-year-old Mediterranean skin with authentic pores, fine wrinkles, textured grey beard",
+        "parchment": "Ancient dried papyrus/parchment with fibrous frayed edges and dark iron-gall ink"
+      },
+      "negative_locks": "electric light, modern lamps, cgi glow, plastic skin, beauty retouching"
+    },
+    "recipe_macro_tactile_parchment": {
+      "name": "Macro Tactile Hands & Ancient Manuscript",
+      "genre": "Archaeological Cinema Close-up",
+      "lighting": {
+        "primary_source": "Raking side-light from terracotta oil lamp grazing across parchment surface",
+        "color_temperature": "2400K warm terracotta glow",
+        "contrast_ratio": "High tactile relief revealing micro-topography of paper and skin"
+      },
+      "optics": {
+        "camera": "ARRI Alexa 65",
+        "lens": "Macro Anamorphic 90mm T2.8",
+        "aspect_ratio": "2.39:1",
+        "framing_focus": "Subject hands occupy 45-55% of frame, extreme focal plane precision"
+      },
+      "materials": {
+        "parchment": "Handmade animal parchment with organic drying ripples, faint ink cracks, lead stone weight",
+        "hands": "Elderly scholar hands with sun spots, natural fingernails, slight skin dryness, no manicure"
+      },
+      "negative_locks": "bound codex book, printed fonts, modern paper, smooth plastic hands, synthetic fibers"
+    },
+    "recipe_exterior_jerusalem_dawn": {
+      "name": "Exterior Jerusalem Dawn & Roman Garrison",
+      "genre": "Historical Epic Realism",
+      "lighting": {
+        "primary_source": "Cold blue pre-dawn skylight (6000K) meeting first horizontal golden sun ray (3800K)",
+        "contrast_ratio": "Soft atmospheric perspective with natural morning distance haze over Judean hills"
+      },
+      "optics": {
+        "camera": "ARRI Alexa 65",
+        "lens": "Cooke Anamorphic 35mm Wide T2.8",
+        "aspect_ratio": "2.39:1",
+        "depth_of_field": "Deep focus, architectural legibility across all three planes"
+      },
+      "materials": {
+        "architecture": "Massive Herodian limestone blocks with draft margins, dry packed earth roads, dust",
+        "metal": "Hammered oxidized Roman iron and weathered bronze armor without chrome sheen"
+      },
+      "negative_locks": "byzantine domes, gothic arches, modern asphalt, medieval castle, fantasy landscapes"
+    },
+    "recipe_classical_narrative_timeline": {
+      "name": "Classical Narrative Timeline & Historical Infographic",
+      "genre": "Historical Documentary & Visual Timeline",
+      "composition_layers": {
+        "layer_1_foreground": "Seated historical thinkers/characters in deep dialogue occupying lower 40% of frame, detailed hand gestures, papyrus scrolls",
+        "layer_2_midground": "Ascending luminous golden timeline path rising like a constellation from foreground up to distant cityscape",
+        "layer_3_background": "Ancient sunlit acropolis, stone colonnades, and aged sky overlay with architectural blueprints and manuscript calligraphy"
+      },
+      "lighting": {
+        "primary_source": "Warm Mediterranean late afternoon sun (3200K) casting gentle directional shadows",
+        "contrast_ratio": "Rich chiaroscuro with warm golden rim lighting on garments and stone surfaces"
+      },
+      "optics": {
+        "camera": "ARRI Alexa 65 Large Format",
+        "lens": "Cooke Anamorphic 40mm T2.3",
+        "aspect_ratio": "9:16 Vertical Poster or 2.39:1 Cinematic Screen",
+        "optical_character": "Sharp optical focus on foreground figures, soft atmospheric decay toward distant hills"
+      },
+      "materials": {
+        "stone": "Sun-bleached classical limestone pillars with authentic chiseled inscriptions and natural weathering",
+        "textiles": "Heavy drape linen himations and unbleached chitons with natural fiber weave",
+        "parchment": "Ancient dried papyrus scrolls and calligraphic manuscript fragments"
+      },
+      "negative_locks": "modern clothing, bound books, plastic skin, CGI neon overload, split-screen collage, distorted typography"
+    }
+  }
+}
