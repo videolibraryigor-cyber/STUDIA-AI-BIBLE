@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "shot_id": "SHOT_PACKAGE_001_A_v1.0",
+    "source_package": "SHOT_PACKAGE_001_A_v1.0.md",
+    "engine": "AI Film Studio Prompt-as-Code Assembler v1.0",
+    "format": "JSON_SCHEMA"
+  },
+  "story_intent": {
+    "content": "### Narrative Purpose\n\nEstablish Nicodemus in his private library at sunset, defining his scholarly routine and the calm order of his world before the first hint of curiosity and disruption.\n\n### Dramatic Beat\n\nCuriosity (Opening) — the ordinary world before change, as defined by `FILM_BLUEPRINT.md` and `PROJECT_BIBLE.md`.\n\n### Emotional Goal\n\nConvey contemplative calm and quiet confidence, with a subtle suggestion that the environment itself is about to become a space of observation rather than only comfort.\n\n### Director's Intention\n\nShow Nicodemus in his familiar sanctuary with restrained dignity. The library should feel stable and grounded; the shot must make the audience aware of his ordered routine while leaving room for a later shift toward curiosity.\n\n---"
+  },
+  "spatial_staging_3_layers": {
+    "content": "### Shot Size\n\nWIDE — to reveal the library interior, the desk, and Nicodemus entering the space.\n\n### Lens\n\nNormal-to-slight-wide focal intention with moderate depth of field to keep both Nicodemus and room details readable.\n\n### Camera Height\n\nEye level — observational and non-judgmental.\n\n### Distance\n\nObservational — enough distance to show environment and character relationships without being intrusive.\n\n### Movement\n\nStatic or slow dolly in, motivated by the character entering and the camera gently acknowledging the established study.\n\n### Composition\n\nLeading lines formed by the desk and shelves draw the eye toward Nicodemus as he enters from the right. Negative space to the left allows the room and window to breathe, reinforcing the quiet stability of the library.\n\n### Framing\n\nInclude the desk, high window, shelves, and the entrance path. Full room coverage with Nicodemus entering into the central quarter of the frame.\n\n### Focus Strategy\n\nPrimary focus on Nicodemus as he enters; maintain enough depth to keep the desk, scrolls, and candle legible. No rack focus is required in this establishing shot.\n\n### Blocking\n\n- Nicodemus enters from the right side of the room.\n- He moves toward the desk, appearing deliberate and measured.\n- Hands remain relaxed at his sides or slightly forward as he enters.\n- The candle and desk remain stationary; the window is visible behind or beside him depending on angle.\n\n---"
+  },
+  "character_performance": {
+    "content": "### Expression\n\nCalm, composed, slightly expectant. No theatrical display.\n\n### Eyes\n\nFocused on the interior of the room; the gaze is quiet, attentive, and aware of familiar surroundings.\n\n### Hands\n\nRelaxed, natural; no fidgeting. One hand may be near the edge of the desk or slightly extended as he enters.\n\n### Body Language\n\nUpright and dignified; measured movement; shoulders steady.\n\n### Movement\n\nMeasured entry; deliberate but unhurried.\n\n### Pace\n\nSoft, steady, deliberate.\n\n---"
+  },
+  "lighting_scenography": {
+    "content": "### Time of Day\n\nSunset / late evening.\n\n### Light Sources\n\n- Window sunlight at sunset.\n- Desk candle.\n\n### Direction\n\n- Dominant light from the window: side/back light from high wall.\n- Fill from the candle: warm, near the desk.\n\n### Contrast\n\nSoft-to-medium contrast: enough shadow to feel volumetric, but not harsh; the room remains warm and readable.\n\n### Color Temperature\n\nWarm amber from candlelight; warm golden edge from sunset through the window; balanced to preserve historical authenticity.\n\n---"
+  },
+  "master_style_layers": [
+    "v2.0_Core",
+    "v2.1_Optical_Microdetail",
+    "v2.2_Human_Realism"
+  ],
+  "video_motion_protocol": {
+    "content": "### Camera Motion\n\nSlow dolly in or static with very slight movement toward Nicodemus as he enters. Motion is motivated by the character's arrival and the need to establish the library.\n\n### Character Motion\n\nNicodemus enters from the right and moves into the interior of the library; he does not yet interact with scrolls in this shot.\n\n### Secondary Motion\n\n- Candle flame flicker.\n- Slight dust particle movement in the window beam.\n- Cloth of the cloak may move minimally with his motion.\n\n### Physics\n\nNatural flame flicker; dust floats gently in the air; cloth responds lightly to his movement.\n\n### Timing\n\n- Timecode: 0:00-0:05 (as per `MASTER_TIMELINE.md`)\n- Approximate duration: 5 seconds\n- Music cue: opening theme begins, establishing mood; no change in tempo required during the shot.\n\n---",
+    "single_motion_vector_lock": true
+  },
+  "negative_locks": [
+    "NEGATIVE_LOCKS",
+    "",
+    "No modern objects.",
+    "",
+    "No fantasy.",
+    "",
+    "No medieval architecture.",
+    "",
+    "No plastic.",
+    "",
+    "No synthetic fabrics.",
+    "",
+    "No glowing skin.",
+    "",
+    "No AI artifacts.",
+    "",
+    "No extra fingers.",
+    "",
+    "No duplicate people.",
+    "",
+    "No changing wardrobe.",
+    "",
+    "No changing facial identity.",
+    "",
+    "No exposure flicker.",
+    "",
+    "No lighting shift.",
+    "",
+    "No color shift.",
+    "",
+    "No texture drift.",
+    "",
+    "No lens change.",
+    "",
+    "No aspect ratio change.",
+    "",
+    "No camera jitter."
+  ]
+}
